@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 60be182a-def8-4f0f-f595-89ca4ec95b60
 resourcetype: Document
 title: meffert.pdf
 uid: 47eef437-2941-1426-526a-0244df9fec9d
