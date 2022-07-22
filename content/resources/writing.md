@@ -5,6 +5,7 @@ file: /courses/4-001j-cityscope-new-orleans-spring-2007/11f4d1df1958a0e44c2228bf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: writing.pdf
 uid: 11f4d1df-1958-a0e4-4c22-28bf4cfc7073
 ---
 Guidelines for writing effective essays.
-

@@ -5,6 +5,7 @@ file: /courses/4-001j-cityscope-new-orleans-spring-2007/2c2c8e084a9f9dc1fae69642
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: 2c2c8e08-4a9f-9dc1-fae6-964236aa8dfe
 ---
 Writing assignment.
-

@@ -6,6 +6,7 @@ file: /courses/4-001j-cityscope-new-orleans-spring-2007/47eef43729411426526a0244
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: meffert.pdf
 uid: 47eef437-2941-1426-526a-0244df9fec9d
 ---
 Lecture slides about New Orleans and coastal Louisiana: a review on sustainability and vulnerability.
-
