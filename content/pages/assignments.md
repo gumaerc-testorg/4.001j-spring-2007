@@ -1,16 +1,22 @@
 ---
 content_type: page
+description: This section contains some of the assignments from this class, guidelines
+  for writing effective essays, and proposal instructions designed to guide students
+  towards their final project work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 661a04fd-78a3-cd32-4f36-6a1666871e46
 ---
 
 This section contains some of the assignments from this class, as well as proposal instructions designed to guide students towards their final project work.
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1))
+Assignment 1 ({{% resource_link 2c2c8e08-4a9f-9dc1-fae6-964236aa8dfe "PDF" %}})
 
-Assignment 2, Part 1 ([PDF]({{< baseurl >}}/resources/assn2a))
+Assignment 2, Part 1 ({{% resource_link bde215cf-fa79-219e-a1c4-678b59013673 "PDF" %}})
 
-Guidelines for Writing Effective Essays ([PDF]({{< baseurl >}}/resources/writing))
+Guidelines for Writing Effective Essays ({{% resource_link 11f4d1df-1958-a0e4-4c22-28bf4cfc7073 "PDF" %}})
 
 Pre-NOLA Visit: A First Proposal Working Session
 ------------------------------------------------

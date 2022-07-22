@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section details the mission of the course and provides
+  information about meeting times, organization, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 985c1ebc-9f90-8740-98c1-0b1db9af8c8e
 ---
