@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides about rebuilding in post-Katrina New Orleans.
 file: /courses/4-001j-cityscope-new-orleans-spring-2007/e505805e33587c33e93a2e19c3f1ef82_rebuilding.pdf
+file_size: 1852976
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
