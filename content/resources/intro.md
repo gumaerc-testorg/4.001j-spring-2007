@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides providing an introduction to the course and sustainable
   city and building design in New Orleans.
 file: /courses/4-001j-cityscope-new-orleans-spring-2007/05b231208caedca08bceb7d7feeca4a6_intro.pdf
+file_size: 1147662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
