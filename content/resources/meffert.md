@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture slides about New Orleans and coastal Louisiana: a review on
   sustainability and vulnerability.'
-file: /ol-ocw-studio-app/courses/4-001j-cityscope-new-orleans-spring-2007/47eef43729411426526a0244df9fec9d_meffert.pdf
+file: /courses/4-001j-cityscope-new-orleans-spring-2007/47eef43729411426526a0244df9fec9d_meffert.pdf
 file_size: 5058944
 file_type: application/pdf
 learning_resource_types:

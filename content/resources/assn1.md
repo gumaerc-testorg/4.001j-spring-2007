@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /ol-ocw-studio-app/courses/4-001j-cityscope-new-orleans-spring-2007/2c2c8e084a9f9dc1fae6964236aa8dfe_assn1.pdf
+file: /courses/4-001j-cityscope-new-orleans-spring-2007/2c2c8e084a9f9dc1fae6964236aa8dfe_assn1.pdf
 file_size: 33317
 file_type: application/pdf
 learning_resource_types:
