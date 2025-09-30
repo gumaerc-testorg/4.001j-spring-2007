@@ -22,4 +22,4 @@ Kelman, Ari. _A River and Its City: The Nature of Landscape in New Orleans_. Ber
 
 Lewis, Peirce F. _New Orleans__: The Making of an Urban Landscape_. 3rd ed. Charlottesville, VA: University of Virginia Press, 2007, chapter 6. ISBN: 9781930066618.
 
-"[Storm Protection: Past, Present, and Future](http://www.loe.org/shows/segments.html?programID=06-P13-00022&segmentID=4)." National Public Radio, August 25, 2006.
+"{{% resource_link "f9e31317-14f3-4e6c-83e8-f9035f8c12fa" "Storm Protection: Past, Present, and Future" %}}." National Public Radio, August 25, 2006.
